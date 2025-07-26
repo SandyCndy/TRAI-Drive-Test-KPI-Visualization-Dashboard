@@ -69,7 +69,8 @@ streamlit run app.py
 ## 📺 Sample Screenshots
 
 ### 📊 KPI Trend Dashboard  
-![dashboard_sample](images/dashboard_sample.png)
+https://github.com/user-attachments/assets/7b9cc1a9-42bc-4d0a-82cb-526a846e0655
+
 
 ---
 
@@ -104,8 +105,8 @@ streamlit run app.py
 
 **Sandeep Kumar**
 🎓 Final Year B.Tech – Electronics and Communication Engineering
-🛠️ Interned at TRAI (Regional Office – QoS Dept.)
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/sandychoudhary/)
+🛠️ Interned at TRAI (Regional Office – Delhi)
+🔗 [https://www.linkedin.com/in/sandeepkumar2612/](https://www.linkedin.com/in/sandeepkumar2612/)
 
 ---
 
@@ -116,4 +117,9 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for f
 ---
 
 > ⚠️ **Disclaimer**: This is a simulated prototype created for academic and demonstration purposes. It does not replace certified telecom drive test or QoS tools used by official auditing teams.
+
+
+
+
+
 
